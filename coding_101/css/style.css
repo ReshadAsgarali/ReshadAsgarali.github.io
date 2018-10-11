@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=ABeeZee|Anton');
+
+body {
+  background-color: #7094db;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: white;
+  padding-left: 45px;
+  padding-right: 45px;
+  border: 0px solid #47476b;
+
+
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Anton', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-weight: lighter;
+  border-top: 2px solid white
+  font-family: 'Anton', sans-serif;
+}
+
+h3 {
+  text-align: center;
+  font-weight: lighter;
+  border-bottom: 2px solid white
+  font-family: 'Anton', sans-serif;
+}
+
+h4 {
+  text-align: center;
+  font-weight: lighter;
+  font-family: 'Anton', sans-serif;
+}
+
+P {
+  font-family: 'ABeeZee', sans-serif;
+}
+
+#listone {
+  border: 2px solid white;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+}
+
+li {
+  width: 100px;
+  display: inline-block;
+}
